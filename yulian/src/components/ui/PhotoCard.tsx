@@ -3,7 +3,6 @@
 import { useRef, useState } from "react"
 import Image from "next/image"
 
-
 interface PhotoCardProps {
   src: string
   alt: string
